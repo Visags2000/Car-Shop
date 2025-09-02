@@ -3,3 +3,5 @@
 - fuse
 - tyres
 - seat cover
+- battery
+- steering wheel
